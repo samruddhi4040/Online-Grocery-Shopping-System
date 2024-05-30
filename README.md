@@ -2,8 +2,6 @@
 
 Welcome to the MERN Grocery Shop Project! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and incorporates various features like user authentication, product listings, reviews, and more.
 ![1](https://github.com/samruddhi4040/Online-Grocery-Shopping-System/assets/130043279/9e16bb0c-1fba-45f8-8d59-026565cb0f28)
-![2](https://github.com/samruddhi4040/Online-Grocery-Shopping-System/assets/130043279/5a6055e9-1f80-43f0-aa5f-7091c19217f7)
-![3](https://github.com/samruddhi4040/Online-Grocery-Shopping-System/assets/130043279/6550c81f-9984-4dfa-82d4-c50bbe923d3f)
 
 ## 📋 Features
 
